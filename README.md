@@ -162,4 +162,3 @@ This project is **not optimized for performance or correctness in real workloads
 * Add **images/ASCII pipeline diagrams**
 * Rewrite it for **resume / portfolio presentation**
 
-Just tell me 👍
