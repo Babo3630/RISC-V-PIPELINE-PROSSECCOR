@@ -1,5 +1,5 @@
-# RISC-V-PIPELINE-PROSSECCOR
-# RISC-V 5-Stage Pipelined Processor (Educational HDL Design)
+
+# RISC-V 5-Stage Pipelined Processor 
 
 This project implements a **basic 5-stage pipelined RISC-V processor** using Verilog/SystemVerilog. The design is intended **purely for learning and experimentation**, helping students understand how pipelining increases instruction throughput compared to a single-cycle CPU.
 
